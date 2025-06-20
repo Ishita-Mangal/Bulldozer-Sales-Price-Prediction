@@ -64,7 +64,7 @@ The following models were trained and evaluated:
 | Model                          | RMSLE         |
 | ------------------------------ | ------------- |
 | Linear Regression              | ~0.40         |
-| Random Forest (100 estimators) | **~0.2-0.3~** |
+| Random Forest (100 estimators) | ~0.2-0.3~ |
 
 ---
 
@@ -72,11 +72,7 @@ The following models were trained and evaluated:
 
 ```
 📁 bulldozer-price-prediction/
-├── Train.csv
-├── Valid.csv
-├── Train_valid.csv
-├── Test.csv
-├── model_pipeline.ipynb       # Full project notebook
+├── Bulldozer_SalesPrice_Prediction.ipynb       # Full project notebook
 ├── test_preds.csv       # Final prediction results
 └── README.md
 ```
